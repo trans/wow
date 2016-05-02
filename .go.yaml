@@ -1,0 +1,5 @@
+---
+path: github.com/trans/wow
+deps:
+    - loc: github.com/gin-gonic/gin
+
